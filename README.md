@@ -7,7 +7,5 @@ Para os professores dos cursos realizados, para buscar a entrega do desafio proc
 | Desafio de projeto | Folder |
 | ------------------------| ----- |
 | Criando um sistema bancário em python | bank_system |
-<<<<<<< HEAD
 | Melhorando o sistema bancário | bank_systemv2 |
-=======
->>>>>>> 66a779ffa15775d34e79083d137a87e6834bf0fd
+
