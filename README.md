@@ -7,3 +7,4 @@ Para os professores do curso, para buscar a entrega do desafio procurar primeiro
 | Desafio de projeto | Folder |
 | ------------------------| ----- |
 | Criando um sistema bancário em python | bank_system |
+| Melhorando o sistema bancário | bank_systemv2 |
