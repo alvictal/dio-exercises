@@ -8,4 +8,6 @@ Para os professores dos cursos realizados, para buscar a entrega do desafio proc
 | ------------------------| ----- |
 | Criando um sistema bancário em python | bank_system |
 | Melhorando o sistema bancário | bank_systemv2 |
+| Construindo seu primeiro projeto lógico de Banco de dados | BD_first_project |
+
 
